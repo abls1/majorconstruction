@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
+
+
+
+
+
+#menu-s .navbar-toggler {
+  color: #f1c050;
+}
+#menu-s .navbar-brand {
+  font-size: 22px;
+  font-family: 'Droid Serif', serif;
+}
+#menu-s .nav-link {
+  font-size: 22px;
+  font-family: 'Oswald', sans-serif;
+}
+#header4-w H1 {
+  font-family: 'Droid Sans', sans-serif;
+  color: #ffffff;
+}
+#content5-15 P {
+  font-size: 17px;
+  font-family: 'Oswald', sans-serif;
+}
+#content5-15 .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+}
+#content5-15 .mbr-section-title B {
+  color: #0275d8;
+}
+#content5-16 P {
+  font-family: 'Oswald', sans-serif;
+}
+#form1-z .mbr-section-title {
+  color: #ffffff;
+}
