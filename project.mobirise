@@ -32,8 +32,8 @@
       "components": [
         {
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "showButtons": false,
             "sticky": true,
             "collapsed": true,
